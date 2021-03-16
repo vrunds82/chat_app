@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730462821382",
+    "project_id": "chatmastertest",
+    "storage_bucket": "chatmastertest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730462821382:android:19959362902636f2f43787",
+        "android_client_info": {
+          "package_name": "sharan.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730462821382-pigvrersar59id4oabp4g28s5lfs3i5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWHNTb3EgW4EeEr7t4fa45UJcedYh3z6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730462821382-pigvrersar59id4oabp4g28s5lfs3i5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
